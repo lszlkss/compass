@@ -8,7 +8,7 @@ compass:
   author: "László Kiss"
   tagline: "Software Developer"
   include_content: true
-  include_analytics: false
+  include_analytics: true
   github: "lszlkss"
 
 # exclude
